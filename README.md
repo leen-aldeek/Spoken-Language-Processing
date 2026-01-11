@@ -12,7 +12,7 @@ This project is part of the Spoken Language Processing course (Fall 2025–2026)
 - `code/`: Python scripts for analysis and synthesis
 - `figures/`: Generated plots and spectrograms
 
-## 🛠️ Tools Used
+## Tools Used
 - **Praat** – For formant and pitch extraction
 - **Python** – For automation and synthesis (librosa, parselmouth, scipy, matplotlib)
 - **Excel** – For data organization
